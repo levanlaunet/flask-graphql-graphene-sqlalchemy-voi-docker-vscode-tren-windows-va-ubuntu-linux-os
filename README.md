@@ -1,2 +1,4 @@
-# flask-graphql-graphene-sqlalchemy-voi-docker-vscode-tren-windows-va-ubuntu-linux-os
-Hướng Dẫn Cách Cài Đặt và Sử Dụng Flask, GraphQL, Graphene, SQLAlchemy với Docker, VScode trên Windows và Ubuntu Linux OS
+# Hướng Dẫn Cách Cài Đặt và Sử Dụng Flask, GraphQL, Graphene, SQLAlchemy với Docker, VScode trên Windows và Ubuntu Linux OS
+
+### Youtube video: https://youtu.be/DwfW6zWT_nk
+### Blog: https://levanlau.net
